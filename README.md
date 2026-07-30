@@ -35,22 +35,22 @@ Response-quality rating is the backbone of preference and evaluation data for la
 ## What the disagreements taught me
 
 Two disagreements stood out:
-- On IT-10 ("why is the sky blue," answered with a factually wrong response), Labeler A rated it a 3 — missing the factual error entirely — while Labeler B correctly caught it at 1
+- On IT-10 ("why is the sky blue," answered with a factually wrong response), Labeler A rated it a 3, missing the factual error entirely, while Labeler B correctly caught it at 1
 - On IT-15 (a seasons misconception), the roles flipped: A caught the error, B softened it to a 2.
-- Both labelers had the rubric's "factual errors = 1" rule available and each still missed it on a different item — proof that raw agreement (55%) can look reasonable while gold accuracy (40-50%) reveals real, rubric-following gaps in both directions, not just one lazy labeler.
+- Both labelers had the rubric's "factual errors = 1" rule available and each still missed it on a different item, proof that raw agreement (55%) can look reasonable while gold accuracy (40-50%) reveals real, rubric-following gaps in both directions, not just one lazy labeler.
 
 ## How I'd scale this past 20 items
 
 - Rubric as a living document, versioned against real edge cases
-- Calibration before volume — annotators clear a gold-set threshold before labels count
+- Calibration before volume - annotators clear a gold-set threshold before labels count
 - Continuous quality checks (gold items seeded invisibly into ongoing work)
 - Adjudication workflow feeding back into the rubric
 - Operational dashboard: κ, per-annotator accuracy, throughput, drift alerts
 
 ## Honest limitations
 
-20 items and 2 labelers is a demonstration of the *machinery*, not a statistically stable study — κ is unstable at this N. Sample data is illustrative; the tool supports **Import** for real datasets.
+20 items and 2 labelers is a demonstration of the *machinery*, not a statistically stable study, κ is unstable at this N. Sample data is illustrative; the tool supports **Import** for real datasets.
 
 ---
 
-*Built by Yadnaishwari Gaikwad as a hands-on study of the data-quality operations behind human-in-the-loop AI.*
+*Built by Yad Gaikwad as a hands-on study of the data-quality operations behind human-in-the-loop AI.*
