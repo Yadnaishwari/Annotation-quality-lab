@@ -34,14 +34,10 @@ Response-quality rating is the backbone of preference and evaluation data for la
 
 ## What the disagreements taught me
 
-Two disagreements stood out. On IT-10 ("why is the sky blue," answered with a
-factually wrong response), Labeler A rated it a 3 — missing the factual error
-entirely — while Labeler B correctly caught it at 1. On IT-15 (a seasons
-misconception), the roles flipped: A caught the error, B softened it to a 2.
-Both labelers had the rubric's "factual errors = 1" rule available and each
-still missed it on a different item — proof that raw agreement (55%) can look
-reasonable while gold accuracy (40-50%) reveals real, rubric-following gaps
-in both directions, not just one lazy labeler.
+Two disagreements stood out:
+- On IT-10 ("why is the sky blue," answered with a factually wrong response), Labeler A rated it a 3 — missing the factual error entirely — while Labeler B correctly caught it at 1
+- On IT-15 (a seasons misconception), the roles flipped: A caught the error, B softened it to a 2.
+- Both labelers had the rubric's "factual errors = 1" rule available and each still missed it on a different item — proof that raw agreement (55%) can look reasonable while gold accuracy (40-50%) reveals real, rubric-following gaps in both directions, not just one lazy labeler.
 
 ## How I'd scale this past 20 items
 
