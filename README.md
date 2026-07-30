@@ -15,7 +15,7 @@ The task: rate an AI assistant's response on a 1–3 scale (Poor / Adequate / Ex
 
 ## Why it matters
 
-Response-quality rating is the backbone of preference and evaluation data for language models. This project mirrors — in miniature — the human-data operations behind that work: labeling interfaces, quality standards, and operational visibility (κ, per-labeler accuracy, an adjudication queue).
+Response-quality rating is the backbone of preference and evaluation data for language models. This project mirrors, in miniature, the human-data operations behind that work: labeling interfaces, quality standards, and operational visibility (κ, per-labeler accuracy, an adjudication queue).
 
 ## How to run it
 
