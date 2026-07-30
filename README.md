@@ -1,7 +1,7 @@
 # Annotation Quality Lab
 
-**Live tool:** `https://<your-username>.github.io/annotation-quality-lab/annotation-quality-lab.html`
-*(update this link once GitHub Pages is live)*
+`[https://<your-username>.github.io/annotation-quality-lab/annotation-quality-lab.html](https://yadnaishwari.github.io/Annotation-quality-lab/annotation-quality-lab.html)`
+
 
 A small, hands-on study in human-data operations: designing a labeling task, running it, and measuring whether the labels can be trusted. Models are only as good as the data they learn from — and that data is only as good as the process that produces it.
 
@@ -20,7 +20,7 @@ Response-quality rating is the backbone of preference and evaluation data for la
 
 ## How to run it
 
-1. Open the [live tool](#) in a browser.
+1. Open the [live tool](https://yadnaishwari.github.io/Annotation-quality-lab/annotation-quality-lab.html) in a browser.
 2. Label all 20 items as **Labeler A**.
 3. Get a second person to label the same items as **Labeler B** (or label again yourself on a different day, noting that this measures intra-rater consistency, not true inter-annotator agreement).
 4. Read the live metrics panel; **export results** to save your run.
